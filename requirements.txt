@@ -1,0 +1,7 @@
+loguru==0.5.3
+numpy==1.21.2
+easyocr==1.4.1
+matplotlib==3.4.3
+pdf2image==1.16.0
+tqdm==4.62.3
+typer==0.4.0
